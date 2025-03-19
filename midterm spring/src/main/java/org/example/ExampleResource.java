@@ -14,3 +14,4 @@ public class ExampleResource {
         return "Hello from Quarkus REST";
     }
 }
+//test
